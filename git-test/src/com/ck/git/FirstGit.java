@@ -9,4 +9,7 @@ public class FirstGit {
         System.out.println("hepp4");
         System.out.println("hepp5");
     }
+    public String test(){
+        return null;
+    }
 }
